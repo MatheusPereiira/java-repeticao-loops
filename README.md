@@ -6,7 +6,7 @@ Os exercícios foram desenvolvidos durante o **3º período do curso de Engenhar
 
 ---
 
-## Atividades Propostas
+## Atividades Propostas:
 
 ![Atividades Parte 1](screenshot/screenshot.png)
 
