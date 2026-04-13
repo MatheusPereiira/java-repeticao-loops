@@ -1,4 +1,4 @@
-# ☕  Estruturas de Repetição em Java
+# Estruturas de Repetição em Java ☕
 
 Repositório contendo exercícios de **estruturas de repetição em Java**, abordando o uso de `for` e `while`.
 
